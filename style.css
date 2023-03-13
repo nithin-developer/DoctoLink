@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+
+.container{
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 100px;
+    padding: 50px;
+}
